@@ -28,7 +28,7 @@
 			<a href="#">Home</a>
 		</li>
 		<li>
-			<a href="#">About Us</a>
+			<a href="<?php echo get_page_link(11) ?>">About Us</a>
 		</li>
 		<li>
 			<a href="#">Production Steps</a>

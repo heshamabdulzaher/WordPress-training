@@ -19,6 +19,8 @@ get_header();
 	<section id="wrapper">
 		<img src="http://localhost/Siwak-elmarwa/wp-content/uploads/2019/03/الموقع-4.png" alt="Siwak elmarwa wrapper">
 	</section>
+
+	
 <?php 
 get_footer();
 ?>
